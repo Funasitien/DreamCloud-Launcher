@@ -121,7 +121,7 @@
 .news-block {
     margin-bottom: 1rem;
     transition: opacity 1s;
-    opacity: .4;
+    opacity: .3;
 }
 
 .news-block:hover {
