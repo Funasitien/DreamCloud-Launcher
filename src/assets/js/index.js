@@ -22,9 +22,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Je... vie...", "author": "Luuxis" },
-            { "message": "Salut je suis du code.", "author": "Luuxis" },
-            { "message": "Linux n' ai pas un os, mais un kernel.", "author": "Luuxis" }
+            { "message": "C'est rien c'est DEMOCRAFT", "author": "Funasitien" },
+            { "message": "DEMOCRAFT c'est la vie.", "author": "RomainLeGeek" },
+            { "message": "C'est rien c'est Luunar", "author": "Funasitien" }
         ]
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
