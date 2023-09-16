@@ -1,10 +1,10 @@
 {
     "name": "DEMOCRAFT-Launcher",
     "preductname": "DEMOCRAFT Launcher",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "Funasitien",
     "url": "https://launcher.democraft.fr",
     "engines": {
         "node": "^18.x.x"
