@@ -1,11 +1,11 @@
 {
     "name": "DEMOCRAFT-Launcher",
     "preductname": "DEMOCRAFT Launcher",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://launcher.luuxis.fr/launcherSelvania",
+    "url": "https://launcher.democraft.fr",
     "engines": {
         "node": "^18.x.x"
     },
