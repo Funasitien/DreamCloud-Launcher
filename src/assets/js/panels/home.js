@@ -50,7 +50,6 @@ class Home {
                     let blockNews = document.createElement('div');
                     blockNews.classList.add('news-block');
                     blockNews.innerHTML = `
-                    <a href=${News.author}>
                         <div class="news-header">
                             <div class="header-text">
                                 <div class="title">${News.title}</div>
@@ -65,8 +64,7 @@ class Home {
                                 <p>${News.content.replace(/\n/g, '</br>')}</p>
                                 <p class="news-author">Auteur :<span> ${News.author}</span></p>
                             </div>
-                        </div>
-                    </a>`
+                        </div>`
                     news.appendChild(blockNews);
                 }
             }
