@@ -4,7 +4,7 @@
 
 [<p align="center">]()
 ![GitHub all releases](https://img.shields.io/github/downloads/luuxis/Selvania-Launcher/total?style=for-the-badge)
-![Discord](https://img.shields.io/discord/819729377650278420?style=for-the-badge)
+![Discord](https://img.shields.io/discord/1060902380624949278?style=for-the-badge)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/luuxis/Selvania-Launcher?style=for-the-badge)
 [<p align="center">]()
 ![GitHub forks](https://img.shields.io/github/forks/luuxis/Selvania-Launcher?style=for-the-badge)
