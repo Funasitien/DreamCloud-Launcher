@@ -1,6 +1,6 @@
 <p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
 
-<h1 align="center">CraftLaunch</h1>
+<h1 align="center">DEMOCRAFT LAUNCHER</h1>
 
 [<p align="center">]()
 ![GitHub all releases](https://img.shields.io/github/downloads/Funasitien/DreamCloud-Launcher/total?style=for-the-badge)
