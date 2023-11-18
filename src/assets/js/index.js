@@ -24,6 +24,7 @@ class Splash {
         let splashes = [
             { "message": "C'est rien c'est DEMOCRAFT", "author": "Funasitien" },
             { "message": "DEMOCRAFT c'est la vie.", "author": "RomainLeGeek" },
+            { "message": "Je peux pas mettre tout ROOT là", "author": "Lucifiss" },
             { "message": "C'est rien c'est Luunar", "author": "Funasitien" }
         ]
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
