@@ -22,10 +22,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "C'est rien c'est DEMOCRAFT", "author": "Funasitien" },
-            { "message": "DEMOCRAFT c'est la vie.", "author": "RomainLeGeek" },
-            { "message": "Je peux pas mettre tout ROOT là", "author": "Lucifiss" },
-            { "message": "C'est rien c'est Luunar", "author": "Funasitien" }
+            { "message": "Je... vie...", "author": "Luuxis" },
+            { "message": "Salut je suis du code.", "author": "Luuxis" },
+            { "message": "Linux n' ai pas un os, mais un kernel.", "author": "Luuxis" }
         ]
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
@@ -45,12 +44,12 @@ class Splash {
 
     async checkUpdate() {
         if (dev) return this.startLauncher();
-        this.setStatus(`Recherche de mise à jour...`);
+        this.setStatus(`recherche de mise à jour...`);
 
         ipcRenderer.invoke('update-app').then(err => {
             if (err.error) {
                 let error = err.message;
-                this.shutdown(`Erreur lors de la recherche de mise à jour :<br>${error}`);
+                this.shutdown(`erreur lors de la recherche de mise à jour :<br>${error}`);
             }
         })
 

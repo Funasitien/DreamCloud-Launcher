@@ -5,6 +5,5 @@
         "**/package-lock.json": true,
         "**/dist": true,
         "**/.gitignore": true
-    },
-    "editor.wordBasedSuggestions": "matchingDocuments"
+    }
 }
