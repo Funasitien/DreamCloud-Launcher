@@ -6,5 +6,5 @@
         "**/dist": true,
         "**/.gitignore": true
     },
-    "editor.wordBasedSuggestions": true
+    "editor.wordBasedSuggestions": "matchingDocuments"
 }
